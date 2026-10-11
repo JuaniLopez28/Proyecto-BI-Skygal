@@ -1,0 +1,3 @@
+Poyecto desarrollado en el curso de Business Analytics de Coderhouse. Se tomó como base de análisis el caso ficticio de Skygal, una empresa cuyo modelo de negocio consiste en la prestación de servicios
+a través de la utilización de drones para la captura de imágenes y videos en la comunidad autónoma de Galicia, España. A lo largo del trabajo (docs) se desarrolló un análisis del mercado y la industria, su relación con las partes relacionadas y su modelo de negocios.
+Luego, se establecieron una serie de objetivos estratégicos sobre los que se aplicó un análisis descriptivo y un análisis predictivo usando Excel.
